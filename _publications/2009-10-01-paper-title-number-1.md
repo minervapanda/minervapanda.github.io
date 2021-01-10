@@ -1,5 +1,5 @@
 ---
-title: "Paper Title Number 1"
+title: "Contextual Care Protocol using Neural Networks and Decision Trees"
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
 excerpt: 'A contextual care protocol is used by a medical
