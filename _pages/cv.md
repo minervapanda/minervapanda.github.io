@@ -23,8 +23,7 @@ Work experience
   * Developed a novel metric to evaluate the sensitivity and specificity of feature discretization algorithm by sub-grouping subjects into two classes on the basis of discrete scores derived. [algorithm in production]  
   * Developed a multi-view based architecture for mass detection in digital mammograms for enabling multi-modal analysis of breast cancer [currently part of pilot study]
   
-* Research Intern, GVCL Lab at E-Health Research Centre 
-  * IIIT Bangalore
+* Research Intern, GVCL Lab at E-Health Research Centre IIIT Bangalore (May 2017- Apr 2018) 
   * Duties included: Geocoded patient addresses, built a dashboard for visualizing patient records, implemented map overlay functionality for integration with external datasets and designed a user interaction study
   * Supervisor: Professor Jaya Sreevalsan Nair
   
